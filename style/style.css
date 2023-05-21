@@ -507,7 +507,7 @@ main {
       rgba(249, 247, 141, 0.42),
       #7569c4
     ),
-    url("/img/imge1.jpg");
+    url("img/imge1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
